@@ -1,0 +1,4 @@
+S3\Upload\UploadApplication.class
+S3\Upload\Controllers\UploadController.class
+S3\Upload\Models\ResponseData.class
+S3\Upload\Services\UploadS3.class
