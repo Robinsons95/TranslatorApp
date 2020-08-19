@@ -1,0 +1,4 @@
+detectionServices\DetectLabels.class
+detectionServices\DetectText.class
+service\Handler.class
+models\RequestData.class
